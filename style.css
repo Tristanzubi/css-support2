@@ -9,15 +9,13 @@ body {
 }
 
 main {
-    /* border: solid 2px white; */
-    height: 95vh;
+    height: 97vh;
     display: flex;
     justify-content: center;
 
     figure {
         display: flex;
         align-items: center;
-        justify-content: center;
         gap: 5rem;
 
         img {
@@ -32,8 +30,6 @@ main {
 }
 
 footer {
-    /* border: solid 2px red; */
-    height: 5vh;
     margin: 0 1rem;
 
     ul {
